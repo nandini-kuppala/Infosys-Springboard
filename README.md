@@ -111,9 +111,3 @@ pip install -r requirements.txt
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-<div align="center">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-chat-chat-flat-flat-juicy-fish.png" alt="Chat Icon" />
-  <img src="https://img.icons8.com/external-justicon-flat-justicon/60/000000/external-ai-artificial-intelligence-justicon-flat-justicon.png" alt="AI Icon" />
-</div>
-
